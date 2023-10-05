@@ -19,74 +19,19 @@
 
 
 ## My Repositories at Glance
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-       h2 {
-            text-align: center;
-        }
-       .project-category {
-            margin-top: 20px;
-            margin-bottom: 10px;
-            font-size: 20px;
-            font-weight: bold;
-        }
-        .project {
-            margin-bottom: 10px;
-        }
-        .project-link {
-            text-decoration: none;
-            color: #0078D4;
-        }
-        .project-description {
-            margin-left: 20px;
-            font-size: 14px;
-        }
-    </style>
-</head>
-<body>
-    <h2>Projects</h2>
-    <div class="project-category">NLP Projects:</div>
-    <div class="project">
-        <a class="project-link" href="https://github.com/jagarapusivatanayakash/summarization">Summarization</a>
-        <p class="project-description">A project for text summarization.</p>
-    </div>
-    <div class="project">
-        <a class="project-link" href="https://github.com/jagarapusivatanayakash/Emotion-Detection-in-news-articles">Emotion Detection in News Articles</a>
-        <p class="project-description">Detect emotions in news articles.</p>
-    </div>
-    <div class="project">
-        <a class="project-link" href="https://github.com/jagarapusivatanayakash/Phishers_url_detection">Phishers URL Detection</a>
-        <p class="project-description">Detect phishing URLs.</p>
-    </div>
-    <div class="project">
-        <a class="project-link" href="https://github.com/jagarapusivatanayakash/Fake_News_Detector">Fake News Detector</a>
-        <p class="project-description">Detect fake news articles.</p>
-    </div>
-    <div class="project-category">Computer Vision Projects:</div>
-    <div class="project">
-        <a class="project-link" href="https://github.com/jagarapusivatanayakash/cotten_disease_prediction">Cotton Disease Prediction</a>
-        <p class="project-description">Predict cotton diseases using computer vision.</p>
-    </div>
-    <div class="project">
-        <a class="project-link" href="https://github.com/jagarapusivatanayakash/Brain_Tumor_Segmentation">Brain Tumor Segmentation</a>
-        <p class="project-description">Segment brain tumors in medical images.</p>
-    </div>
-    <div class="project">
-        <a class="project-link" href="https://github.com/jagarapusivatanayakash/Adversarial-attacks-on-deep-neural-networks-and-defending-techniques">Adversarial Attacks on Deep Neural Networks and Defending Techniques</a>
-        <p class="project-description">Study adversarial attacks and defense techniques.</p>
-    </div>
-    <div class="project-category">Machine Learning Projects:</div>
-    <div class="project">
-        <a class="project-link" href="https://github.com/jagarapusivatanayakash/AgricultureAI_WebApp">AgricultureAI WebApp</a>
-        <p class="project-description">Web application for agriculture-related machine learning.</p>
-    </div>
-</body>
-</html>
+NLP:
+1. Summarization - [GitHub Link](https://github.com/jagarapusivatanayakash/summarization)
+2. Emotion Detection in News Articles - [GitHub Link](https://github.com/jagarapusivatanayakash/Emotion-Detection-in-news-articles)
+3. Phishers URL Detection - [GitHub Link](https://github.com/jagarapusivatanayakash/Phishers_url_detection)
+4. Fake News Detector - [GitHub Link](https://github.com/jagarapusivatanayakash/Fake_News_Detector)
+
+Computer Vision:
+1. Cotton Disease Prediction - [GitHub Link](https://github.com/jagarapusivatanayakash/cotten_disease_prediction)
+2. Brain Tumor Segmentation - [GitHub Link](https://github.com/jagarapusivatanayakash/Brain_Tumor_Segmentation)
+3. Adversarial Attacks on Deep Neural Networks and Defending Techniques - [GitHub Link](https://github.com/jagarapusivatanayakash/Adversarial-attacks-on-deep-neural-networks-and-defending-techniques)
+
+Machine Learning:
+1. AgricultureAI WebApp - [GitHub Link](https://github.com/jagarapusivatanayakash/AgricultureAI_WebApp)
 
 
 
