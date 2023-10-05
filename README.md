@@ -26,27 +26,22 @@
         body {
             font-family: Arial, sans-serif;
         }
-
-        h2 {
+       h2 {
             text-align: center;
         }
-
-        .project-category {
+       .project-category {
             margin-top: 20px;
             margin-bottom: 10px;
             font-size: 20px;
             font-weight: bold;
         }
-
         .project {
             margin-bottom: 10px;
         }
-
         .project-link {
             text-decoration: none;
             color: #0078D4;
         }
-
         .project-description {
             margin-left: 20px;
             font-size: 14px;
@@ -55,7 +50,6 @@
 </head>
 <body>
     <h2>Projects</h2>
-
     <div class="project-category">NLP Projects:</div>
     <div class="project">
         <a class="project-link" href="https://github.com/jagarapusivatanayakash/summarization">Summarization</a>
@@ -73,7 +67,6 @@
         <a class="project-link" href="https://github.com/jagarapusivatanayakash/Fake_News_Detector">Fake News Detector</a>
         <p class="project-description">Detect fake news articles.</p>
     </div>
-
     <div class="project-category">Computer Vision Projects:</div>
     <div class="project">
         <a class="project-link" href="https://github.com/jagarapusivatanayakash/cotten_disease_prediction">Cotton Disease Prediction</a>
@@ -87,7 +80,6 @@
         <a class="project-link" href="https://github.com/jagarapusivatanayakash/Adversarial-attacks-on-deep-neural-networks-and-defending-techniques">Adversarial Attacks on Deep Neural Networks and Defending Techniques</a>
         <p class="project-description">Study adversarial attacks and defense techniques.</p>
     </div>
-
     <div class="project-category">Machine Learning Projects:</div>
     <div class="project">
         <a class="project-link" href="https://github.com/jagarapusivatanayakash/AgricultureAI_WebApp">AgricultureAI WebApp</a>
