@@ -19,40 +19,20 @@
 
 
 ## My Repositories at Glance
-<table>
-  <tr>
-    <th>NLP</th>
-    <th>Computer Vision</th>
-  </tr>
-  <tr>
-    <td> 
-      <ul>
-        <li><a target="_blank" href="https://github.com/jagarapusivatanayakash/summarization"><i>summarization</i></a></li>
-        <li><a target="_blank" href="https://github.com/jagarapusivatanayakash/Emotion-Detection-in-news-articles"><i>Emotion Detection in news articles</i></a> </li>
-        <li><a target="_blank" href="https://github.com/jagarapusivatanayakash/Phishers_url_detection"><i>Phishers url detection</i></a></li>
-        <li><a target="_blank" href="https://github.com/jagarapusivatanayakash/Fake_News_Detector"><i>Fake News Detector</i></a></li>
-      </ul> 
-    </td>
-    <td>
-      <ul>
-        <li><a target="_blank" href="https://github.com/jagarapusivatanayakash/cotten_disease_prediction"><i>cotten disease prediction</i></a></li>
-        <li><a target="_blank" href="https://github.com/jagarapusivatanayakash/Brain_Tumor_Segmentation"><i>Brain Tumor Segmentation</i></a></li>
-        <li><a target="_blank" href="https://github.com/jagarapusivatanayakash/Adversarial-attacks-on-deep-neural-networks-and-defending-techniques"><i>Adversarial attacks on deep neural networks and defending techniques</i></a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th>Machine Learning</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li><a target="_blank" href = "https://github.com/jagarapusivatanayakash/AgricultureAI_WebApp"><i>AgricultureAI_WebApp</i></a></li>
-      </ul>
-    </td>
-  <tr>
-</table>
-</div>
+NLP:
+1. Summarization - [GitHub Link](https://github.com/jagarapusivatanayakash/summarization)
+2. Emotion Detection in News Articles - [GitHub Link](https://github.com/jagarapusivatanayakash/Emotion-Detection-in-news-articles)
+3. Phishers URL Detection - [GitHub Link](https://github.com/jagarapusivatanayakash/Phishers_url_detection)
+4. Fake News Detector - [GitHub Link](https://github.com/jagarapusivatanayakash/Fake_News_Detector)
+
+Computer Vision:
+1. Cotton Disease Prediction - [GitHub Link](https://github.com/jagarapusivatanayakash/cotten_disease_prediction)
+2. Brain Tumor Segmentation - [GitHub Link](https://github.com/jagarapusivatanayakash/Brain_Tumor_Segmentation)
+3. Adversarial Attacks on Deep Neural Networks and Defending Techniques - [GitHub Link](https://github.com/jagarapusivatanayakash/Adversarial-attacks-on-deep-neural-networks-and-defending-techniques)
+
+Machine Learning:
+1. AgricultureAI WebApp - [GitHub Link](https://github.com/jagarapusivatanayakash/AgricultureAI_WebApp)
+
 
 <div align="center">
 
