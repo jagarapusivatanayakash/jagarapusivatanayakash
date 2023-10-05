@@ -17,7 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagarapusivatanayakash&show_icons=true&locale=en" alt="jagarapusivatanayakash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagarapusivatanayakash&" alt="jagarapusivatanayakash" /></p>
 
 ## My Repositories at Glance
 <table>
