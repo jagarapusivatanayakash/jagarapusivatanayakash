@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siva Tanay Akash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I'm Interested in **Deep Learning,NLP,Machine Learning,Computer Vision.**
+- 🔭 I'm Interested in **Deep Learning, NLP, Machine Learning, Computer Vision.**
 
-- 🌱 I’m currently learning **Computer Vision,JavaScript**
+- 🌱 I’m currently learning **Computer Vision, JavaScript**
 
 - 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
 
