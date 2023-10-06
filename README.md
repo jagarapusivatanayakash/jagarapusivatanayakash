@@ -24,6 +24,8 @@ NLP:
 2. Emotion Detection in News Articles - [GitHub Link](https://github.com/jagarapusivatanayakash/Emotion-Detection-in-news-articles)
 3. Phishers URL Detection - [GitHub Link](https://github.com/jagarapusivatanayakash/Phishers_url_detection)
 4. Fake News Detector - [GitHub Link](https://github.com/jagarapusivatanayakash/Fake_News_Detector)
+5. imdb movie reviews sentiment analysis - [GitHub Link](https://github.com/jagarapusivatanayakash/imdb_movie_reviews_sentiment_analysis)
+6. sms spam detection - [GitHub Link](https://github.com/jagarapusivatanayakash/sms_spam_detection)
 
 Computer Vision:
 1. Cotton Disease Prediction - [GitHub Link](https://github.com/jagarapusivatanayakash/cotten_disease_prediction)
@@ -32,6 +34,7 @@ Computer Vision:
 
 Machine Learning:
 1. AgricultureAI WebApp - [GitHub Link](https://github.com/jagarapusivatanayakash/AgricultureAI_WebApp)
+2. churn prediction - [GitHub Link](https://github.com/jagarapusivatanayakash/bank_customer_churn_prediction)
 
 
 
