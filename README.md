@@ -5,9 +5,7 @@
 
 - 🔭 I'm Interested in **Deep Learning, NLP, Machine Learning, Computer Vision.**
 
-- 🌱 I’m currently learning **Computer Vision, JavaScript**
-
-- 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
+- 🌱 Working on cutting-edge problems in **Medical Imaging and Generative AI.**
 
 - 📫 How to reach me **sivatanayakashjagarapu@gmail.com**
 
